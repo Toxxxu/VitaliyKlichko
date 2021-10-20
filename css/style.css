@@ -52,7 +52,7 @@
 
 
 .main{
-  background: url(/img/photo.jpg);
+  background: url(../img/photo.jpg);
   background-attachment: fixed;
   position: relative;
 }
