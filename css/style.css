@@ -57,6 +57,23 @@
   position: relative;
 }
 
+.topbutton {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color:orange;
+  font-size: 22px;
+  text-align: right;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.topbutton:hover{
+  color: orangered;
+  font-size: 23px;
+}
+
 .cover{
 background: rgba(0, 0, 0, 0.8);
 position: absolute;
@@ -163,6 +180,7 @@ background-color: #D65450;
   margin: 0 auto;
 }
 .music-text{
+  margin-top: 20px;
   margin-bottom: 10px;
   font-size: 20px;
   text-align: center;
